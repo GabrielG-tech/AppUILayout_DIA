@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize">40sp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="margentop_message">20dp</dimen>
+    <dimen name="margemTopEnviar">40dp</dimen>
+</resources>
